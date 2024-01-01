@@ -1,0 +1,218 @@
+body {
+    background-color: #FFFAFA;
+}
+.shop-name {
+    color: #2D2F28;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Playfair Display', serif;
+    margin-top: 30px;
+}
+
+.logo {
+    width: 150px;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+
+}
+
+.item_main {
+    position: absolute;
+    top: 20;
+    left: 0;
+    margin-top: 35px;
+    margin-left: 150px;
+    display: inline-block;
+    width: 1700px;
+}
+
+.item_img {
+    width: 550px;
+    display: inline-block;
+}
+
+.item_img_back {
+    margin-left: 0px;
+    width: 550px;
+    display: inline-block;
+    position: relative;
+}
+
+
+.item_name {
+    color: #2D2F28;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+    margin-left: 350px;
+    margin-top: 60px;
+    position: absolute;
+    display: inline-block;
+}
+
+.item_color {
+    color: #2D2F28;
+    font-size: 28px;
+    font-family: 'Playfair Display', serif;
+    margin-left: 235px;
+    margin-top: 145px;
+    position: absolute;
+    display: inline-block;
+}
+
+.item_cost {
+    color: #2D2F28;
+    font-size: 28px;
+    font-family: 'Playfair Display', serif;
+    left: 1340px;
+    top: 180px;
+    position: absolute;
+    width: 120px;
+}
+
+.item_size {
+    color: #2D2F28;
+    font-size: 28px;
+    font-family: 'Playfair Display', serif;
+    margin-left: 235px;
+    margin-top: 220px;
+    position: absolute;
+    display: inline-block;
+}
+
+.btn_size_s {
+    color: #2D2F28;
+    background-color: #FFFAFA;
+    border-width: 1px;
+    font-size: 24px;
+    font-family: 'Playfair Display', serif;
+    margin-left: 235px;
+    margin-top: 265px;
+    position: absolute;
+    display: inline-block;
+    transition: color 0.5s;
+}
+
+.btn_size_m {
+    color: #2D2F28;
+    background-color: #FFFAFA;
+    border-width: 1px;
+    font-size: 24px;
+    font-family: 'Playfair Display', serif;
+    margin-left: 268px;
+    margin-top: 265px;
+    position: absolute;
+    display: inline-block;
+    transition: color 0.5s;
+}
+
+.btn_size_l {
+    color: #2D2F28;
+    background-color: #FFFAFA;
+    border-width: 1px;
+    font-size: 24px;
+    font-family: 'Playfair Display', serif;
+    margin-left: 308px;
+    margin-top: 265px;
+    position: absolute;
+    display: inline-block;
+    transition: color 0.5s;
+}
+
+.btn_size_xl {
+    color: #2D2F28;
+    background-color: #FFFAFA;
+    border-width: 1px;
+    font-size: 24px;
+    font-family: 'Playfair Display', serif;
+    margin-left: 340px;
+    margin-top: 265px;
+    position: absolute;
+    display: inline-block;
+    transition: color 0.5s;
+}
+
+.btn_size_s:hover {
+    background-color: #2D2F28;
+    color: #FFFAFA;
+}
+
+.btn_size_m:hover {
+    background-color: #2D2F28;
+    color: #FFFAFA;
+}
+
+.btn_size_l:hover {
+    background-color: #2D2F28;
+    color: #FFFAFA;
+}
+
+.btn_size_xl:hover {
+    background-color: #2D2F28;
+    color: #FFFAFA;
+}
+
+.btn_size_s:focus {
+    background-color: #2D2F28;
+    color: #FFFAFA;
+}
+
+.btn_size_m:focus {
+    background-color: #2D2F28;
+    color: #FFFAFA;
+}
+
+.btn_size_l:focus {
+    background-color: #2D2F28;
+    color: #FFFAFA;
+}
+
+.btn_size_xl:focus {
+    background-color: #2D2F28;
+    color: #FFFAFA;
+}
+
+
+.btn_add {
+    color: #800020;
+    background-color: #FFFAFA;
+    border-width: 1px;
+    border-radius: 15px;
+    font-size: 22px;
+    font-family: 'Playfair Display', serif;
+    width: 220px;
+    height: 42px;
+    left: 1400px;
+    top: 330px;
+    transition: color 0.5s;
+    position: absolute;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.btn_add:hover {
+    background-color: #eeeadd;
+}
+
+.item_desrpition {
+    color: #2D2F28;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+    margin-left: 230px;
+    margin-top: 400px;
+    position: absolute;
+    display: inline-block;
+    opacity: 0.9;
+}
+
+.article_concept {
+    color: #2D2F28;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 50px;
+    opacity: 0.6;
+}

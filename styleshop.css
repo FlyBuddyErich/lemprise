@@ -1,0 +1,220 @@
+body {
+    background-color: #FFFAFA;
+    background-image: url(Lemprise\ website/images/shapka1.png)
+}
+
+.logo {
+    width: 150px;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+
+}
+
+.shop-name {
+    color: #2D2F28;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Playfair Display', serif;
+    margin-top: 30px;
+}
+.item1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 900px;
+    display: inline-block;
+}
+
+.tsirt_numb_img {
+    position: relative;
+    width: 450px;
+    margin-top: 80px;
+    margin-left: 250px;
+    display: inline-block;
+    transition-duration: 0.2s;
+}
+
+.tsirt_numb_img_back {
+    position: absolute;
+    width: 450px;
+    margin-top: 80px;
+    display: inline-block;
+    left: 250px;
+}
+
+.tshirt_numb {
+    color: #2D2F28;
+    font-size: 24px;
+    font-family: 'Quicksand', sans-serif;
+    width: 450px;
+    margin-top: 50px;
+    margin-left: 390px;
+    display: inline-block;
+}
+
+.tsirt_numb_img:hover {
+ opacity: 0;
+}
+
+.tshirt_numb_cost {
+    color: #2D2F28;
+    font-size: 22px;
+    font-family: 'Quicksand', sans-serif;
+    width: 450px;
+    margin-left: 430px;
+    display: inline-block;
+}
+
+.item2 {
+    position: relative;
+    top: 50;
+    left: 50;
+    width: 900px;
+    display: inline-block;
+}
+
+.tsirt_numb_img_white {
+    position: relative;
+    width: 450px;
+    margin-top: 80px;
+    margin-left: 250px;
+    display: inline-block;
+    transition-duration: 0.2s;
+}
+
+.tsirt_numb_img_back_white {
+    position: absolute;
+    width: 450px;
+    margin-top: 80px;
+    display: inline-block;
+    left: 250px;
+}
+
+.tshirt_numb_white {
+    color: #2D2F28;
+    font-size: 24px;
+    font-family: 'Quicksand', sans-serif;
+    width: 450px;
+    margin-top: 50px;
+    margin-left: 355px;
+}
+
+.tsirt_numb_img_white:hover {
+ opacity: 0;
+}
+
+.tshirt_numb_cost_white {
+    color: #2D2F28;
+    font-size: 22px;
+    font-family: 'Quicksand', sans-serif;
+    width: 450px;
+    margin-left: 430px;
+}
+
+
+.item3 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 900px;
+    display: inline-block;
+}
+
+.pullover_baise_img {
+    position: relative;
+    width: 450px;
+    margin-top: 80px;
+    margin-left: 250px;
+    display: inline-block;
+    transition-duration: 0.2s;
+}
+
+.pullover_baise_img_back {
+    position: absolute;
+    width: 450px;
+    margin-top: 70px;
+    display: inline-block;
+    left: 250px;
+}
+
+.pullover_baise {
+    color: #2D2F28;
+    font-size: 24px;
+    font-family: 'Quicksand', sans-serif;
+    width: 450px;
+    margin-top: 50px;
+    margin-left: 430px;
+    display: inline-block;
+}
+
+.pullover_baise_img:hover {
+ opacity: 0;
+}
+
+.pullover_baise_cost {
+    color: #2D2F28;
+    font-size: 22px;
+    font-family: 'Quicksand', sans-serif;
+    width: 450px;
+    margin-left: 410px;
+    display: inline-block;
+}
+
+.item4 {
+    position: relative;
+    top: 50;
+    left: 50;
+    width: 900px;
+    display: inline-block;
+}
+
+.pullover_animals_img {
+    position: relative;
+    width: 450px;
+    margin-top: 80px;
+    margin-left: 250px;
+    display: inline-block;
+    transition-duration: 0.2s;
+}
+
+.pullover_animals_img_back {
+    position: absolute;
+    width: 450px;
+    margin-top: 70px;
+    display: inline-block;
+    left: 250px;
+}
+
+.pullover_animals{
+    color: #2D2F28;
+    font-size: 24px;
+    font-family: 'Quicksand', sans-serif;
+    width: 450px;
+    margin-top: 50px;
+    margin-left: 430px;
+}
+
+.pullover_animals_img:hover {
+ opacity: 0;
+}
+
+.pullover_animals_cost {
+    color: #2D2F28;
+    font-size: 22px;
+    font-family: 'Quicksand', sans-serif;
+    width: 450px;
+    margin-left: 430px;
+}
+
+.article_concept {
+    color: #2D2F28;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 50px;
+    opacity: 0.6;
+}
+
