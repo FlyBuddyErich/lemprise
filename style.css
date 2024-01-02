@@ -1,6 +1,11 @@
 body {
     background-color: #FFFAFA;
 }
+
+img {
+    max-width: 100%;
+}
+
 .shop-name {
     color: #2D2F28;
     text-align: center;
@@ -36,6 +41,11 @@ body {
     border-radius: 350px;
     margin-left: 450px;
     margin-top: 80px;
+    transition: 0.5s;
+}
+
+.img1:hover {
+    box-shadow: 25px 5px 25px 0.1px #002FA7;
 }
 
 .creator-name {
@@ -44,6 +54,7 @@ body {
     font-family: 'Quicksand', sans-serif;
     margin-top: 30px;
     margin-left: 1200px;
+    text-decoration: underline;
 }
 
 .article_2 {
@@ -70,8 +81,8 @@ body {
 }
 
 .btn_enter:hover {
-    color: #800020;
-    background-color: #eeeadd;
+    color: #002FA7;
+    background-color: #D7EEE4;
 }
 
 .article_concept {

@@ -1,0 +1,188 @@
+body {
+    background-color: #FFFAFA;
+}
+
+.shop-name {
+    color: #2D2F28;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Playfair Display', serif;
+    margin-top: 30px;
+}
+
+.logo {
+    width: 150px;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+
+}
+
+.main_item {
+    background-image: url(images/shapka1.png);
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2D2F28;
+    margin: auto;
+    margin-top: 45px;
+    width: 50%;
+    padding: 10px;
+    transform: translate(25%, 0%);
+    display: inline-block;
+
+
+}
+
+.img_item {
+    width: 450px;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    transform: translate(42%, 0%);
+    padding: 10px;
+
+}
+
+.item_name {
+    color: #2D2F28;
+    font-size: 36px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    position: flex;
+    text-align: center;
+}
+
+.item_color {
+    color: #2D2F28;
+    font-size: 28px;
+    font-family: 'Playfair Display', serif;
+    position: flex;
+    text-align: center;
+
+}
+
+.item_size {
+    color: #2D2F28;
+    font-size: 28px;
+    font-family: 'Playfair Display', serif;
+    position: flex;
+    text-align: center;
+
+}
+
+.bag {
+    color: #2D2F28;
+    font-size: 48px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    position: absolute;
+    top: 150px;
+    left: 1445px;
+}
+
+.bag_item {
+    color: #2D2F28;
+    font-size: 28px;
+    font-family: 'Playfair Display', serif;
+    position: absolute;
+    top: 325px;
+    left: 1400px;
+    text-decoration: underline;
+}
+
+.item_delete {
+    color: #2D2F28;
+    font-size: 24px;
+    font-family: 'Playfair Display', serif;
+    position: absolute;
+    top: 360px;
+    left: 1550px;
+    cursor: pointer;
+}
+
+.item_delete:hover {
+    color: #800020;
+}
+
+.item_cost {
+    color: #2D2F28;
+    font-size: 28px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    position: absolute;
+    top: 400px;
+    left: 1430px;
+
+}
+
+.btn_buy {
+    color: #002FA7;
+    background-color: #FFFAFA;
+    border-width: 1px;
+    border-radius: 15px;
+    font-size: 28px;
+    width: 268px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    position: absolute;
+    top: 460px;
+    left: 1430px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.btn_buy:hover {
+    color: #D7EEE4;
+    background-color: #002FA7;
+}
+
+.btn_cont {
+    color: #2D2F28;
+    background-color: #FFFAFA;
+    border: none;
+    font-size: 28px;
+    width: 268px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    position: absolute;
+    top: 510px;
+    left: 1430px;
+    cursor: pointer;
+}
+
+.btn_cont:hover {
+    text-decoration: underline;
+}
+
+.item_description {
+    color: #2D2F28;
+    font-size: 16px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    position: absolute;
+    top: 600px;
+    left: 1220px;
+    opacity: 0.8;
+}
+
+.item_faq {
+    color: #2D2F28;
+    font-size: 16px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    position: absolute;
+    top: 640px;
+    left: 1220px;
+    opacity: 0.8;
+}
+
+.article_concept {
+    color: #2D2F28;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 50px;
+    opacity: 0.6;
+}
